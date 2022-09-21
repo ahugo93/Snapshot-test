@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "500px",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="image.jpeg"
+      style={
+        Object {
+          "height": "500px",
+        }
+      }
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        A. Hugo
+      </div>
+      <p
+        className="card-text"
+      >
+        Full blown dog dad in the day time, Pokemon master by night.
+      </p>
+    </div>
+  </div>
+</div>
+`;
